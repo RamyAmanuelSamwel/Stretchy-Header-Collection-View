@@ -1,10 +1,7 @@
 # Stretchy-Header-Collection-View
 
-**Demo**
-![Demo](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/Stretchy-Header-Collection-View-Demo.mov)
-
 **Iphone 5s**
-![iphone 5s](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%205s.png)
+![](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%205s.png =100x300)
 
 **Iphone X**
 ![iphone X](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20X.png)
