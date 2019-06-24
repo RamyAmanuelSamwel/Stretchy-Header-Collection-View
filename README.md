@@ -1,5 +1,5 @@
 # Stretchy-Header-Collection-View
 
-Iphone 5s
+**Iphone 5s**
 
-![iphone 5s](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%205s.png)
+![iphone 5s](/iPhone 5s.png)
