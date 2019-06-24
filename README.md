@@ -1,10 +1,10 @@
 # Stretchy-Header-Collection-View
 
 **Iphone 5s**
-![](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%205s.png =100x300)
+<img src="https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%205s.png" data-canonical-src="https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%205s.png" width="200" height="400" />
 
 **Iphone X**
-![iphone X](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20X.png)
+<img src="https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20X.png" data-canonical-src="https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20X.png" width="200" height="400" />
 
 **Iphone Xs Max**
-![iphone Xs Max](https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20Xs%20Max.png)
+<img src="https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20Xs%20Max.png" data-canonical-src="https://github.com/RamyAmanuelSamwel/Stretchy-Header-Collection-View/blob/master/iPhone%20Xs%20Max.png" width="200" height="400" />
